@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 34A1-9F07
+
+ Directory of C:\Users\shivani\Desktop\git-project
+
+13-Jun-17  03:09 PM    <DIR>          .
+13-Jun-17  03:09 PM    <DIR>          ..
+13-Jun-17  03:09 PM                 0 email.txt
+13-Jun-17  02:28 PM                 0 index.html.txt
+13-Jun-17  02:25 PM               403 test.txt
+13-Jun-17  03:01 PM                 0 test2.txt.txt
+               4 File(s)            403 bytes
+               2 Dir(s)  34,079,543,296 bytes free
